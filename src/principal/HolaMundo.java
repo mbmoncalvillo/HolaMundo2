@@ -10,7 +10,7 @@ public class HolaMundo {
 		System.out.println("Introduce una letra");
 		String letra=teclado.nextLine();
 		teclado.close();		
-		
+		System.out.println("Estoy en darMasDinero");
 	}
 
 }

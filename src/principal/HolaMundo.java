@@ -12,8 +12,9 @@ public class HolaMundo {
 		System.out.println("Introduce una letra");
 		String letra=teclado.nextLine();
 		teclado.close();		
-		System.out.println("Añadida linea de la rama darMenosDinero");
-		
+
+		System.out.println("Estoy en darMasDinero");
+
 	}
 
 }

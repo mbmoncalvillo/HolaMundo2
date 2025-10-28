@@ -1,5 +1,7 @@
 package principal;
-
+/*
+ * 
+ */
 import java.util.Scanner;
 
 public class HolaMundo {
@@ -10,6 +12,7 @@ public class HolaMundo {
 		System.out.println("Introduce una letra");
 		String letra=teclado.nextLine();
 		teclado.close();		
+		System.out.println("Añadida linea de la rama darMenosDinero");
 		
 	}
 
